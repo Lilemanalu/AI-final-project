@@ -6,9 +6,8 @@ Final project for `Artificial Intelligence` course.
 <img src="https://user-images.githubusercontent.com/70984049/206620090-21725a95-dae7-4e43-be04-12db2cd86ad8.png" width="300" height="500"/>
 <br> 
 
-
 ### 🧩 Implementation flow of the algorithm:
- 1. `🗂️ Data Collection` -> 50 videos that come from the TikTok app
+ 1. `🗂️ Data Collection` -> 50 videos that come from the <a href="https://www.tiktok.com/"> <button>TikTok</button></a> app
  2. `📊 Preprocessing Data` -> convert raw data obtained through the Data Collection process into data/information that will be used as parameters or information
  3. `📚 Feature Learning` -> the program learns the features contained in each data frame that has been obtained in the previous process
     1. `Convolution` -> make use of 'filter' using 'random' way
