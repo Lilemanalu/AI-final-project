@@ -3,7 +3,7 @@ Final project for `Artificial Intelligence` course.
 
 ### 🎲 How does the process look like? 
 
-<img src="https://user-images.githubusercontent.com/70984049/206620090-21725a95-dae7-4e43-be04-12db2cd86ad8.png" width="300" height="500"/>
+<img src="https://user-images.githubusercontent.com/70984049/210680330-dd8979b2-5525-43a5-a539-327ef7eabc44.png" width="225" height="600"/>
 <br> 
 
 ### 🧩 Implementation flow of the algorithm:
@@ -20,15 +20,18 @@ Final project for `Artificial Intelligence` course.
     4. `Model` -> classify each frame
 
  
-### 🎯 Project brief: Detecting potential `mental health disorder` from video using the `CNN Method`
+### 🎯 Project brief: Detecting potential `mental health disorder` from video using the `CNN (Convolutional Neural Network)` Method
 
-### 🔗 Dataset Link: https://drive.google.com/drive/folders/13zLVvmE-xPBcHoTx6AU8pcguBednRUAL?hl=id
+### 🔗 <a href="https://drive.google.com/drive/folders/13zLVvmE-xPBcHoTx6AU8pcguBednRUAL?hl=id"> <button>Dataset Link</button></a>
 
 ### 🔧 Tech stack: Python
 
 ![code](https://user-images.githubusercontent.com/70984049/206621790-3ab86da0-d70b-4d90-9d16-d823b8540ef3.png)
- See the code <a href="https://github.com/Lilemanalu/AI-final-project/blob/main/Mental_Health_Indication_Recognition_based_on_Video.ipynb"> <button>here</button></a>!
+ See the code <a href="https://github.com/Lilemanalu/AI-final-project/blob/main/Mental_Health_Indicator.ipynb"> <button>here</button></a>!
+ <br> 
  
+📄 Looking for a full explanation of this project? Download the project report <a href="https://github.com/Lilemanalu/AI-final-project/raw/main/LP-CERTAN-22-14.pdf"> <button>here.</button></a>
+
  <br> 
  
  ```
