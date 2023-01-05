@@ -30,7 +30,7 @@ Final project for `Artificial Intelligence` course.
  See the code <a href="https://github.com/Lilemanalu/AI-final-project/blob/main/Mental_Health_Indicator.ipynb"> <button>here</button></a>!
  <br> 
  
-📄 Looking for a full explanation of this project? Download the project report <a href="https://github.com/Lilemanalu/AI-final-project/raw/main/LP-CERTAN-22-14.pdf"> <button>here.</button></a>
+📄 Looking for a full explanation of this project? Download the project report <a href="https://github.com/Lilemanalu/AI-final-project/raw/main/LP-CERTAN-22-14.pdf"> <button>here</button></a>.
 
  <br> 
  
